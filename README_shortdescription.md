@@ -1,45 +1,67 @@
-Legal Corpus Processing Toolkit
+# Legal Corpus Processing Toolkit
 
-This repository contains a set of Python scripts designed to support the construction, cleaning, normalization, and integration of legal corpora for research purposes.
+This repository contains a set of **Python scripts** designed to support the **construction, cleaning, normalization, and integration of legal corpora** for research purposes.
 
-The tools included in this project were developed to process legal texts from multiple jurisdictions and prepare them for terminological analysis, natural language processing (NLP), and comparative legal studies.
+The tools included in this project were developed to process **legal texts from multiple jurisdictions** and prepare them for:
 
-The scripts automate several tasks commonly required in corpus preparation, including:
+- Terminological analysis  
+- Natural language processing (NLP)  
+- Comparative legal studies  
 
-        Cleaning raw legal documents (removing headers, redundant numbering, and formatting artifacts)
-        
-        Normalizing legal text structures
-        
-        Segmenting documents into sections
-        
-        Merging multiple datasets into a unified corpus
-        
-        Standardizing metadata such as jurisdiction, document type, and source file
-        
-        Preparing datasets for terminology extraction and NLP pipelines
+---
 
-The project is particularly useful for researchers working in:
+## Features
 
-        Legal translation
-        
-        Legal terminology
-        
-        Comparative law
-        
-        Computational linguistics
-        
-        Natural language processing applied to legal texts (Legal NLP)
+The scripts automate several tasks commonly required in **corpus preparation**, including:
 
-The current corpus includes documents from several civil law jurisdictions, including:
+- **Cleaning raw legal documents**
+  - Removing headers
+  - Removing redundant numbering
+  - Removing formatting artifacts
 
-        Chile
-        
-        Argentina
-        
-        Mexico
-        
-        Spain
+- **Normalizing legal text structures**
 
-These scripts can be adapted to process other legal systems or document collections.
+- **Segmenting documents into sections**
 
-The repository aims to support open and reproducible research in legal linguistics and AI-assisted terminology management.
+- **Merging multiple datasets into a unified corpus**
+
+- **Standardizing metadata**, such as:
+  - Jurisdiction
+  - Document type
+  - Source file
+
+- **Preparing datasets for terminology extraction and NLP pipelines**
+
+---
+
+## Research Applications
+
+This project is particularly useful for researchers working in:
+
+- Legal translation  
+- Legal terminology  
+- Comparative law  
+- Computational linguistics  
+- Natural language processing applied to legal texts (**Legal NLP**)
+
+---
+
+## Corpus Coverage
+
+The current corpus includes documents from several **civil law jurisdictions**, including:
+
+- Chile  
+- Argentina  
+- Mexico  
+- Spain  
+
+These scripts can be adapted to process **other legal systems or document collections**.
+
+---
+
+## Project Goal
+
+The repository aims to support **open and reproducible research** in:
+
+- Legal linguistics  
+- AI-assisted terminology management  
