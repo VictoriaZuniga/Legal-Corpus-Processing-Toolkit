@@ -87,34 +87,6 @@ Outputs datasets that can be used for:
 - legal language analysis  
 - NLP pipelines  
 
----
-
-# Repository Structure
-
-Example structure of the repository:
-
-
-legal-corpus-processing/
-│
-├── scripts/
-│ ├── clean_legal_texts.py
-│ ├── normalize_structure.py
-│ ├── segment_sections.py
-│ └── merge_datasets.py
-│
-├── data/
-│ ├── raw/
-│ ├── cleaned/
-│ └── master_dataset/
-│
-├── notebooks/
-│ └── corpus_analysis.ipynb
-│
-├── results/
-│ └── master_corpus.csv
-│
-└── README.md
-
 
 ---
 
