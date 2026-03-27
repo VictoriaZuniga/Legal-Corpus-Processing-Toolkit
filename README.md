@@ -109,7 +109,7 @@ This structure allows efficient corpus analysis and terminology extraction.
 Clone the repository:
 
 
-git clone https://github.com/VictoriaZuniga/legal-corpus-processing.git
+git clone https://github.com/VictoriaZuniga/Legal-Corpus-Processing-Toolkit.git
 
 
 Install dependencies:
