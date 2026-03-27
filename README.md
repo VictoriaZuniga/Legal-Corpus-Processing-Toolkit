@@ -109,7 +109,7 @@ This structure allows efficient corpus analysis and terminology extraction.
 Clone the repository:
 
 
-git clone https://github.com/yourusername/legal-corpus-processing.git
+git clone https://github.com/VictoriaZuniga/legal-corpus-processing.git
 
 
 Install dependencies:
@@ -185,17 +185,12 @@ Planned improvements include:
 
 If you use this repository in academic research, please cite it as:
 
-Author. (Year). *Legal Corpus Processing Toolkit: Scripts for legal corpus preparation and analysis*. GitHub repository.
+Victoria Zuniga. (2026). *Legal Corpus Processing Toolkit: Scripts for legal corpus preparation and analysis*. GitHub repository.
 
----
-
-# License
-
-This project is released under the **MIT License**, allowing free use for research and educational purposes.
 
 ---
 
 # Author
 
 **Victoria Zúñiga Fernández**  
-Legal Translator | Legal Terminology Researcher | AI & Legal Language Studies
+Legal Translator | Legal Terminology Researcher | AI & ML Engineer
